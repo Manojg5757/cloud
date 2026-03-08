@@ -1,6 +1,6 @@
 let num = 20;
 console.log("pull command")
-console.log("second pull command")
+console.log("second pull command conflict")
 console.log("second branch");
 console.log("second change");
 console.log("third")
